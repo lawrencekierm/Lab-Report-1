@@ -5,8 +5,8 @@ at the same time for white light. Additionally, I added analogWrites for
 special colors: VIOLET & YELLOW.*/
 int LEDpin[3] = {
   3,  //RED
-  4,  //GREEN
-  5   //BLUE
+  5,  //GREEN
+  6   //BLUE
   }; 
 void setup() {
                                                 // This will assign pin 3 to 4 as an output of the LEDs
